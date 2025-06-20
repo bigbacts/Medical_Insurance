@@ -47,17 +47,3 @@ This project focuses on the prediction of medical insurance charges using variou
 
 The analysis indicates that ensemble machine learning methods, particularly Random Forest and Gradient Boosting, provide the most accurate predictions for medical insurance costs when using this dataset. The project highlights the importance of smoking status, BMI, and age in influencing insurance charges, as well as the benefits of feature engineering and robust model evaluation.
 
-## How to Run
-
-1. Clone this repository.
-2. Ensure the required Python libraries are installed (`requirements.txt` may be provided).
-3. Run the Jupyter Notebook (`.ipynb` file) in your local environment or in a suitable cloud environment (such as Google Colab or Kaggle Kernels).
-
-## License
-
-Specify your project’s license here (e.g., MIT License).
-
-## Contact
-
-For questions or collaboration, please contact [Your Name] at [your-email@example.com].
-
